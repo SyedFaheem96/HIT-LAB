@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+repositories/file\:_D\:_HIT-2021_workspace_basic_src_basic_.metadata_.plugins_org.eclipse.pde.core_p2_org.eclipse.equinox.p2.core_cache/description=
+repositories/file\:_D\:_HIT-2021_workspace_basic_src_basic_.metadata_.plugins_org.eclipse.pde.core_p2_org.eclipse.equinox.p2.core_cache/enabled=true
+repositories/file\:_D\:_HIT-2021_workspace_basic_src_basic_.metadata_.plugins_org.eclipse.pde.core_p2_org.eclipse.equinox.p2.core_cache/isSystem=true
+repositories/file\:_D\:_HIT-2021_workspace_basic_src_basic_.metadata_.plugins_org.eclipse.pde.core_p2_org.eclipse.equinox.p2.core_cache/name=download cache
+repositories/file\:_D\:_HIT-2021_workspace_basic_src_basic_.metadata_.plugins_org.eclipse.pde.core_p2_org.eclipse.equinox.p2.core_cache/provider=
+repositories/file\:_D\:_HIT-2021_workspace_basic_src_basic_.metadata_.plugins_org.eclipse.pde.core_p2_org.eclipse.equinox.p2.core_cache/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
+repositories/file\:_D\:_HIT-2021_workspace_basic_src_basic_.metadata_.plugins_org.eclipse.pde.core_p2_org.eclipse.equinox.p2.core_cache/uri=file\:/D\:/HIT-2021/workspace/basic/src/basic/.metadata/.plugins/org.eclipse.pde.core/p2/org.eclipse.equinox.p2.core/cache/
+repositories/file\:_D\:_HIT-2021_workspace_basic_src_basic_.metadata_.plugins_org.eclipse.pde.core_p2_org.eclipse.equinox.p2.core_cache/version=1
